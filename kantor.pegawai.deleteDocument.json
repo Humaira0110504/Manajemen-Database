@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "684a87dff10f96e9046c4bd1"
+  },
+  "nama": "Rudi Hartono",
+  "nip": "199001252020070101",
+  "jabatan": "Teknisi IT",
+  "divisi": "Teknologi Informasi",
+  "tanggal_masuk": {
+    "$date": "2020-07-01T00:00:00.000Z"
+  },
+  "gaji": 6500000,
+  "status": "Aktif",
+  "alamat": {
+    "jalan": "Jl. Veteran No. 45",
+    "kota": "Surabaya",
+    "provinsi": "Jawa Timur"
+  },
+  "kontak": {
+    "telepon": "081298765432",
+    "email": "rudi.hartono@kantor.com"
+  }
+}]
